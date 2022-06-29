@@ -1,2 +1,4 @@
 # loi-sim-mobi-khong-nhan-cuoc-goi
 Xử lý nhanh lỗi sim MobiFone không nhận được cuộc gọi
+<p style="text-align: justify;"><a href="https://3gmobifones.com/sim-mobifone-khong-nhan-duoc-cuoc-goi"><strong>Tại sao sim MobiFone không nhận được cuộc gọi?</strong></a> Không thể nhận được cuộc gọi khiến người dùng bị gián đoạn liên lạc. Điều này kéo dài có thể ảnh hưởng đến quá trình học tập và làm việc của người dùng. Vì vậy bạn cần tìm nguyên nhân và hướng giải quyết phù hợp nhất. Nếu bạn cũng rơi vào trường hợp này thì hãy nhanh chóng tìm hiểu chi tiết trong nội dung sau.</p>
+<p style="text-align: justify;">Thông thường thuê bao của bạn không nhận được cuộc gọi sẽ xuất phát nhiều nguyên nhân khác nhau như sim bị lỗi, thuê bao đang nằm ngoài vùng phủ sóng, bị chặn chiều cuộc gọi,... Cùng <a href="http://3gmobifones.com" target="_blank" rel="noopener">3gmobifones.com</a> tìm hiểu thông tin chi tiết dưới.</p>
